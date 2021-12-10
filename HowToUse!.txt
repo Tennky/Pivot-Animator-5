@@ -1,0 +1,5 @@
+I only publish it here, becouse some antiviruses (like mine) doesn't allow the link wich actually downloads the setup.
+2nd method: Go in safe mode with networking and download the setup. Any program run on boot is disabled in this mode.
+How to enable Safe Mode:
+ Press Windows key and I, the settings will open. Go to Update & Security. Go to Recovery. See for "Advanced Setup" and click restart. Your PC will restart and it will show you a menu. Select Troubleshoot, Advanced Options, then Startup Settings, then click restart. Another menu will show with list of commands. Click Restart, then you need to click 5 or F5 to run your PC in Safe Mode with Networking. If you want to use Safe Mode without networking, press 4 or F4. And done! Now you can download Pivot becouse your AntiVirus (like mine) may block the actual download link. Now your AntiVirus won't run even in background mode. You also can go in any site with no blocking! All done!
+ Download link: https://pivotanimator.net/
